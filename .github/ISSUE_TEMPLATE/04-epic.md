@@ -1,7 +1,7 @@
 ---
 name: 💠 Epic
 about: Create new epic
-title: '[EPIC] <title>'
+title: '<title>'
 labels: 'type: epic'
 assignees: ''
 
