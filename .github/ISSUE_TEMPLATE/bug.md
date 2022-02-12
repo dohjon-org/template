@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: 🐛 Bug Report
+about: Report a reproducible bug or regression.
+title: 'Bug: '
+labels: 'type: bug'
 assignees: ''
 
 ---
@@ -19,6 +19,9 @@ Steps to reproduce the behavior:
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
+
+**Current behavior**
+A clear and concise description of what happens.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
