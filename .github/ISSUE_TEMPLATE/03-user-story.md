@@ -6,6 +6,17 @@ labels: 'type: story'
 assignees: ''
 
 ---
+
+<!--
+- Independent
+- Negotiable
+- Valuable
+- Estimable
+- Small
+- Testable
+
+As a [type of user], I want [an action] so that [a reason/a value]
+-->
   
 ## Acceptance criteria
 <!-- 
