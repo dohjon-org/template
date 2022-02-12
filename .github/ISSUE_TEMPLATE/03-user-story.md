@@ -1,42 +1,28 @@
 ---
 name: 📘 User Story
 about: Create new user story
-title: 'As a [role], I want [objective], So I [benefit]'
+title: 'As a [role], I [want to ...], So that [...]'
 labels: 'type: story'
 assignees: ''
 
 ---
   
-## Problem Statement
-<!-- 
-- [ ] As a [role], I want [objective], So I [benefit]
-- [ ] As a x, I want to y which solves z
-- [ ] As a x, I want to y which solves z
--->
-
-## Tasks
-
-
-<!-- 
-Keep tasks small, but not too small. As a rule of thumb, a task should be something 
-that can be done within a single day, but not in a few minutes' time either.
-
-- [ ] Task 1
-- [ ] Develop the login class
--->
-
-
-
 ## Acceptance criteria
 <!-- 
-- [ ] Should be able to x
-- [ ] Should be able to y
+- [ ] Given that I am a new user, when I go to the sign up page and enter an username and password and click on sign up, then I am successfully registered and able to log in with my chosen credentials.
 -->
     
 ## Definition of Done
 <!-- 
-- [ ] Acceptance criteria met
+- [ ] All acceptance criteria met
 - [ ] Code reviewed
+- [ ] Tests passed
 - [ ] Unit test coverage > 85%
 - [ ] Documentation updated
+-->
+
+## Tasks
+<!-- 
+- [ ] Task 1
+- [ ] Develop the login class
 -->
