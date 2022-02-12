@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Slack channel
+    url: https://dohjon.slack.com
+    about: Reach us in slack
