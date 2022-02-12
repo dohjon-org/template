@@ -8,15 +8,10 @@ assignees: ''
 ---
 
 ## Problem Statement
-
+As a user, I want to be able to securely log in to the system so that my information can only be accessed by me.
 <!-- 
-- [ ] As a x, I want to y which solves z
-- [ ] As a x, I want to y which solves z
--->
-  
-## Initiative
-<!-- 
-Describe how this Epic impacts an initiative the business is working on.
+- [ ] As a [role], I want to [benefit] which [solves]
+- [ ] As a user, I want to be able to securely log in to the system so that my information can only be accessed by me.
 -->
 
 ## EPD
